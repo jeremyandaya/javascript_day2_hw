@@ -40,7 +40,8 @@ function vowelTest(s) {
 }
 
 //text box with my name popping up as an alert
-in html 
+
+//in html  // commented this line to fix error on page.
 
 //most frequency in a array. 
 
